@@ -1,3 +1,5 @@
+# pip install requests networkx matplotlib
+
 import requests, networkx as nx, matplotlib.pyplot as plt
 from itertools import combinations
 
