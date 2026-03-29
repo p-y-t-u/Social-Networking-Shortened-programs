@@ -1,3 +1,5 @@
+# pip install requests requests-oauthlib
+
 import requests
 from requests_oauthlib import OAuth1
 
