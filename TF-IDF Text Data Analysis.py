@@ -1,3 +1,5 @@
+# pip install pandas matplotlib scikit-learn wordcloud
+
 import pandas as pd, matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from wordcloud import WordCloud
