@@ -1,3 +1,5 @@
+# pip install tweepy nltk matplotlib
+
 import tweepy, nltk, matplotlib.pyplot as plt
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
